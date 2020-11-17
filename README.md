@@ -1,20 +1,20 @@
-# New-Portfolio
+# My-Portfolio
 
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Owiti-Charles](https://github.com/andiwoedwin/)
 
-### Version
-08.2019/001
+
 
 ## Description
+This is my portfolio website which consists of all the work i have undertaken since i started codding. It also consist of my CV and links to my various accounts such as github and linkedin.
 
 
-## Screenshot
-<img src="https://raw.githubusercontent.com/Owiti-Charles/New-Portfolio/master/img/portfolio.png" width="900px" height="440px">
+<!-- ## Screenshot
+<img src="https://raw.githubusercontent.com/Owiti-Charles/New-Portfolio/master/img/portfolio.png" width="900px" height="440px"> -->
 
 ## Live Page 
-https://Owiti-charles.github.io/New-Portfolio 
+<!-- https://Owiti-charles.github.io/New-Portfolio  -->
 
 
 ## Installation / Setup instruction
