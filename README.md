@@ -31,9 +31,7 @@ This is my portfolio website which consists of all the work i have undertaken si
 * [Bootstrap]
 * [Javascript]
 
-## Known Bugs
 
-* The contacts form is not operational. 
 
 ## Contact Information 
 
